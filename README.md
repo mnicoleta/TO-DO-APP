@@ -1,15 +1,8 @@
 
-![image](https://user-images.githubusercontent.com/70850500/184543227-b7e4a19d-675d-4cd8-8189-544ed39fc175.png)
-
-
-
-
-
-
-
-
-
 # ToDoProjects
+![image](https://user-images.githubusercontent.com/70850500/184543462-211dd3dd-1a77-433f-8462-f25f16f11545.png)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
 ## Development server
