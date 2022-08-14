@@ -1,5 +1,5 @@
 # ToDoProjects
-![image](https://user-images.githubusercontent.com/70850500/184542720-9e162814-0d81-4926-871d-02cf325ff567.png)
+
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
